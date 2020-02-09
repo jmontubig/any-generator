@@ -1,0 +1,1 @@
+console.log('$[my-wc-name] with a class name of $[MyWcName]');

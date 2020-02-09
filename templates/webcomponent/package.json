@@ -1,0 +1,11 @@
+{
+  "name": "$[my-wc-name]",
+  "version": "1.0.0",
+  "description": "My very own default web component ($[MyWcName])",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

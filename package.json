@@ -1,0 +1,20 @@
+{
+  "name": "my-wc-generator",
+  "version": "1.0.0",
+  "description": "Custom Generator for a simple web component",
+  "main": "index.js",
+  "bin": {
+    "my-wc-generate": "./index.js"
+  },
+  "scripts": {
+    "generate": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Montubig",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.0.4",
+    "replace-in-file": "^5.0.2",
+    "underscore.string": "^3.3.5"
+  }
+}
